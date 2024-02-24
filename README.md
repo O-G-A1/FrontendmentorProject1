@@ -1,7 +1,7 @@
 # Frontend Mentor - Social links profile
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
-
+[My Github](https://github.com/O-G-A1)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
