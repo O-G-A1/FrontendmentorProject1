@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.rectangulardiv{
+    width: 350px;
+    height: 470px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: rgb(67, 63, 63);
+    border-radius: 7px;
+}
+.jessica{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 140px; 
+}
+button{
+    display: block;
+}
+.name{
+    color: white;
+    text-align: center;
+    margin-top: 12px;
+    font-size: x-large;
+    
+}
+.address{
+    color: greenyellow;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 4px;
+}
+.text{
+    color: white;
+    text-align: center;
+    margin-top: 19px;
+    margin-bottom: 17px;
+}
+button{
+    margin: 0 auto;
+    padding: 7px;
+    width: 240px;
+    border-radius: 6px;
+    border: none;
+    margin-bottom: 15px;
+    background-color: rgb(110, 104, 104);
+    color: white;
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
